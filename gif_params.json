@@ -1,0 +1,22 @@
+{
+	"gifs":[
+		{
+			"filename": "gif1.gif",
+			"h_offset": 0,
+			"v_offset": 0,
+			"rotation_angle": 45
+		},
+		{
+			"filename": "gif2.gif",
+			"h_offset": 200,
+			"v_offset": 200,
+			"rotation_angle": 0
+		},
+		{
+			"filename": "gif3.gif",
+			"h_offset": 500,
+			"v_offset": 500,
+			"rotation_angle": 30
+		}
+	]
+}
